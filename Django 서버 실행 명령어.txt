@@ -1,2 +1,0 @@
-Django 서버 실행 명령어 : python manage.py runserver   
-[주의 : 폴더 잘 확인해서 manage.py가 있는 폴더에서 실행해야함.]
