@@ -1,0 +1,14 @@
+name: GitHub_Action_practice
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run pwd
+      run: pwd
+    - name: run ls -al
+      run: ls -al
